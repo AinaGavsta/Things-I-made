@@ -1,3 +1,4 @@
+#made a factorial function as micropython doesn't support math.factorial
 def factorial(n):
     if n < 0:
         return 'bad'
